@@ -1,0 +1,48 @@
+{
+	"Monday":[
+	{"name":"chest press", "reps":10, "sets":5, "type":"chest", "machine":"bench press"},
+	{"name":"inclined chest press", "reps":8, "sets":5, "type":"chest", "machine":"inclined bench press"},
+	{"name":"pec fly", "reps":12, "sets":4, "type":"chest", "machine":"cable fly"},
+	{"name":"skullcrushers", "reps":12, "sets":5, "type":"triceps", "machine":"bench and dumbbell"},
+	{"name":"dips", "reps":15, "sets":5, "type":"triceps", "machine":"parallel bars"}
+	],
+
+	"Tuesday":[
+	{"name":"pull up", "reps":12, "sets":5, "type":"back", "machine":"cable machine"},
+	{"name":"row", "reps":10, "sets":5, "type":"back", "machine":"row machine"},
+	{"name":"delt fly", "reps":12, "sets":4, "type":"back", "machine":"delt machine"},
+	{"name":"dumbbell curl", "reps":12, "sets":5, "type":"biceps", "machine":"dumbbell"},
+	{"name":"hammer curl", "reps":10, "sets":5, "type":"biceps", "machine":"dumbbell"}
+	],
+
+	"Wednesday":[
+	{"name":"extenions", "reps":12, "sets":5, "type":"legs", "machine":"extensions machine"},
+	{"name":"squat", "reps":10, "sets":5, "type":"legs", "machine":"squat rack"},
+	{"name":"hack press", "reps":12, "sets":5, "type":"legs", "machine":"hack press"},
+	{"name":"calf lifts", "reps":20, "sets":5, "type":"legs", "machine":"calf press"}
+	],
+
+	"Thursday":[
+	{"name":"rest day"}
+	],
+
+	"Friday":[
+	{"name":"chest press", "reps":10, "sets":5, "type":"chest", "machine":"bench press"},
+	{"name":"inclined chest press", "reps":8, "sets":5, "type":"chest", "machine":"inclined bench press"},
+	{"name":"pec fly", "reps":12, "sets":4, "type":"chest", "machine":"cable fly"},
+	{"name":"skullcrushers", "reps":12, "sets":5, "type":"triceps", "machine":"bench and dumbbell"},
+	{"name":"dips", "reps":15, "sets":5, "type":"triceps", "machine":"parallel bars"}
+	],
+
+	"Saturday":[
+	{"name":"pull up", "reps":12, "sets":5, "type":"back", "machine":"cable machine"},
+	{"name":"row", "reps":10, "sets":5, "type":"back", "machine":"row machine"},
+	{"name":"delt fly", "reps":12, "sets":4, "type":"back", "machine":"delt machine"},
+	{"name":"dumbbell curl", "reps":12, "sets":5, "type":"biceps", "machine":"dumbbell"},
+	{"name":"hammer curl", "reps":10, "sets":5, "type":"biceps", "machine":"dumbbell"}
+	],
+
+	"Sunday":[
+	{"name":"rest day"}
+	]
+}
